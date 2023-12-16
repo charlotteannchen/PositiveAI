@@ -4,7 +4,7 @@ PositivAI is designed to be a cheerful friend, providing uplifting and comfortin
 
 ## Installation
 ```linux=
-conda create -n positiveai python=3.11
+conda create -n positiveai python=3.9
 conda activate positiveai
 conda install -c conda-forge ghostscript
 pip install -r requirements.txt
