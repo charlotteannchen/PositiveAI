@@ -12,6 +12,7 @@ conda install streamlit
 ```
 
 ## Get Started
+Run by Streamlit or simply use by this link(https://chat.openai.com/g/g-NwLkv6JUD-positiveai).
 ```linux=
 streamlit run main.py
 ```
