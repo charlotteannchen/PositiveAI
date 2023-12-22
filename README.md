@@ -11,7 +11,7 @@ pip install -r requirements.txt
 conda install streamlit
 ```
 
-## Get Started
+## How to run the code
 You can either run a web-based application by the code below or simply access to [PositiveAI](https://chat.openai.com/g/g-NwLkv6JUD-positiveai).
 ```linux=
 streamlit run main.py
