@@ -16,3 +16,6 @@ You can either run a web-based application by the code below or simply access to
 ```linux=
 streamlit run main.py
 ```
+
+## Demo Video 
+https://youtu.be/mNNoXxqcp6U
